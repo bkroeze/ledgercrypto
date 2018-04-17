@@ -1,0 +1,36 @@
+Arguments: 
+  /home/bruce/.nvm/versions/node/v8.7.0/bin/node /home/bruce/.nvm/versions/node/v8.7.0/bin/yarn init
+
+PATH: 
+  /home/bruce/.nvm/versions/node/v8.7.0/bin:~/.local/bin:/home/bruce/bin:/home/bruce/.rvm/gems/ruby-2.3.5/bin:/home/bruce/.rvm/gems/ruby-2.3.5@global/bin:/home/bruce/.rvm/rubies/ruby-2.3.5/bin:/home/bruce/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/bruce/.rvm/bin:/opt/PostgreSQL/9.6/bin:/opt/PostgreSQL/9.6/bin:/home/bruce/.rvm/bin:/usr/local/cuda-8.0/bin:/usr/local/cuda-8.0:~/work/src/flutter/bin:/usr/lib/dart/bin:~/.pub-cache/bin:/home/bruce/.yarn/bin:/home/bruce/.config/yarn/global/node_modules/.bin:/home/bruce/.rvm/bin:/opt/PostgreSQL/9.6/bin
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.7.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/bruce/.nvm/versions/node/v8.7.0/lib/node_modules/yarn/lib/cli.js:120971:13)
+      at emitNone (events.js:105:13)
+      at Interface.emit (events.js:207:7)
+      at Interface._ttyWrite (readline.js:775:16)
+      at ReadStream.onkeypress (readline.js:160:10)
+      at emitTwo (events.js:125:13)
+      at ReadStream.emit (events.js:213:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1011:36)

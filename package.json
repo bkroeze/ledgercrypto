@@ -1,0 +1,10 @@
+{
+  "name": "ledgercrypto",
+  "version": "0.0.1",
+  "description": "Utilities for managing Cryptocurrency portfolios in Ledger",
+  "main": "cli.js",
+  "repository": "https://github.com/bkroeze/ledgercrypto.git",
+  "author": "Bruce Kroeze <bkroeze@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
