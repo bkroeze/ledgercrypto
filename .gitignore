@@ -1,0 +1,11 @@
+*~
+*.log
+node_modules
+*sublime*
+dist
+scratch.js
+.env
+.env*
+_private
+.#*
+TAGS
